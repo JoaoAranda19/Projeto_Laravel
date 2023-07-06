@@ -64,5 +64,5 @@ Se você descobrir uma vulnerabilidade de segurança no Laravel, envie um e-mail
 
 O framework Laravel é um software de código aberto licenciado sob a [MIT license](https://opensource.org/licenses/MIT).
 
-## Aqui em baixo está umm video mostrando o API
+## Aqui em baixo está um video mostrando o projeto
 
